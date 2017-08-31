@@ -15,6 +15,9 @@ Niels Ørbæk Christensen <niec@itu.dk>
 ### 6. Alexandra Institute: Improving direction detection of Bluetooth beacons for the visual impaired
 ### 7. Arla: Proved Quality
 ### 8. Bang & Olufsen: Smart Entertainment
+Andreas Jacobsen <anjac@itu.dk>
+Thomas Blichfeldt <tbli@itu.dk>
+
 ### 9. Banedanmark: Security and Maintenance
 ### 10. Coop: Predictive Equipment Maintenance
 Søren Andreasen <mail@sorenandreasen.com>  
