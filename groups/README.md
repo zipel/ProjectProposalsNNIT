@@ -31,3 +31,5 @@ Thomas Charles Rohleder <tcha@itu.dk>
 ### 17. IFSP: Smart Bike Parking Garage
 ### 18. IFSP: Outdoor Gym
 Johan Arleth - <johaa@itu.dk>
+Maurice Mugisha maum@itu.dk
+Nikolaos Grigoriadis ngri@itu.dk
