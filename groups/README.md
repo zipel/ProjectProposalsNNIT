@@ -28,3 +28,5 @@ Thomas Charles Rohleder <tcha@itu.dk>
 ### 13/14. Pandora: Wearing Feelings/Feeling the wearing
 ### 15. Widex: Speech Translation/Recognition
 ### 16. Widex: Social Interaction
+### 17. IFSP: Smart Bike Parking Garage
+### 18. IFSP: Outdoor Gym
