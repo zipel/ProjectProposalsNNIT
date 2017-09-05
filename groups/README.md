@@ -21,7 +21,7 @@ Thomas Blichfeldt <tbli@itu.dk>
 ### 9. Banedanmark: Security and Maintenance
 ### 10. Coop: Predictive Equipment Maintenance
 Søren Andreasen <mail@sorenandreasen.com>  
-Thomas Charles Rohleder <tcha@itu.dk>
+Thomas Charles Rohleder <tcha@itu.dk>  
 Johnni Hested <jhes@itu.dk>
 
 ### 11. Coop: Consumer Interaction in Store
