@@ -22,6 +22,7 @@ Thomas Blichfeldt <tbli@itu.dk>
 ### 10. Coop: Predictive Equipment Maintenance
 Søren Andreasen <mail@sorenandreasen.com>  
 Thomas Charles Rohleder <tcha@itu.dk>
+Johnni Hested <jhes@itu.dk>
 
 ### 11. Coop: Consumer Interaction in Store
 ### 12. PFA Pension: Lifestyle Insurance
@@ -30,6 +31,6 @@ Thomas Charles Rohleder <tcha@itu.dk>
 ### 16. Widex: Social Interaction
 ### 17. IFSP: Smart Bike Parking Garage
 ### 18. IFSP: Outdoor Gym
-Johan Arleth - <johaa@itu.dk>
-Maurice Mugisha maum@itu.dk
-Nikolaos Grigoriadis ngri@itu.dk
+Johan Arleth - <johaa@itu.dk>  
+Maurice Mugisha maum@itu.dk  
+Nikolaos Grigoriadis ngri@itu.dk  
