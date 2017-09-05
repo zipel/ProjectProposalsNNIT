@@ -30,3 +30,4 @@ Thomas Charles Rohleder <tcha@itu.dk>
 ### 16. Widex: Social Interaction
 ### 17. IFSP: Smart Bike Parking Garage
 ### 18. IFSP: Outdoor Gym
+Johan Arleth - <johaa@itu.dk>
