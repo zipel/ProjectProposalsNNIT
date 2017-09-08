@@ -29,6 +29,9 @@ Johnni Hested <jhes@itu.dk>
 ### 13/14. Pandora: Wearing Feelings/Feeling the wearing
 ### 15. Widex: Speech Translation/Recognition
 ### 16. Widex: Social Interaction
+Daniel Gottlieb Dollerup <dgot@itu.dk>
+Natalie Brammer Jensen <nabj@itu.dk>
+
 ### 17. IFSP: Smart Bike Parking Garage
 ### 18. IFSP: Outdoor Gym
 Johan Arleth - <johaa@itu.dk>  
