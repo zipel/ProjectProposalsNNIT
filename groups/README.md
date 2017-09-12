@@ -33,7 +33,7 @@ Daniel Gottlieb Dollerup <dgot@itu.dk>
 Natalie Brammer Jensen <nabj@itu.dk>
 
 ### 17. IFSP: Smart Bike Parking Garage
-### 18. IFSP: Outdoor Gym
+### 18. IFSP: Smart Gym
 Johan Arleth - <johaa@itu.dk>  
 Maurice Mugisha maum@itu.dk  
 Nikolaos Grigoriadis ngri@itu.dk  
