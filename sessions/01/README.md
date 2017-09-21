@@ -1,4 +1,4 @@
-# Session 01
+# Session 01 : Introduction
 
 ## Topics
 - Course overview.
