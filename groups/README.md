@@ -14,10 +14,9 @@ Niels Ørbæk Christensen <niec@itu.dk>
 ### 5. ITU: Water Monitoring
 ### 6. Alexandra Institute: Improving direction detection of Bluetooth beacons for the visual impaired
 ### 7. Arla: Proved Quality
-Ans Uddin <anud@itu.dk>
-Teitur Djurhuus Poulsen <tepo@itu.dk>
+Ans Uddin <anud@itu.dk>  
+Teitur Djurhuus Poulsen <tepo@itu.dk>  
 Sjúrður í Sandagerði <sjri@itu.dk>
-
 
 ### 8. Bang & Olufsen: Smart Entertainment
 Andreas Jacobsen <anjac@itu.dk>   
