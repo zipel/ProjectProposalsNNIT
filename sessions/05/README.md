@@ -23,4 +23,4 @@ your slides on Google Drive or similar below before the start of the class!**
 8. Bang & Olufsen: Smart Entertainment
 10. Coop: Predictive Equipment Maintenance
 16. Widex: Social Interaction
-18. IFSP: Smart Gym https://docs.google.com/presentation/d/1m9ndybgVk2cCDHbYk-i_tHOvKXb1ddxurGfgz_gntfc/edit?usp=sharing
+18. [IFSP: Smart Gym](https://docs.google.com/presentation/d/1m9ndybgVk2cCDHbYk-i_tHOvKXb1ddxurGfgz_gntfc/edit?usp=sharing)
