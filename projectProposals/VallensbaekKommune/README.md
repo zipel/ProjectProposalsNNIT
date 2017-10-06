@@ -19,6 +19,9 @@ sensors installed by the municipality.
 - Signal processing
 - Data analytics, machine learning
 
+#### Papers
+Diagnosing New York city's noises with ubiquitous data, UbiComp 2014
+
 ### 2 Library Development
 
 Vallenbæk has very recently renovated the town hall's ground floor including the old library. The newly renovated area has been transformed into Vallensbæk Culture and Citizen House. The facilities includes meeting rooms is all sizes, a lounge area, a large hall (used for city council meetings) as well as a library. The facilities are open to public - also outside town hall opening hours. 
