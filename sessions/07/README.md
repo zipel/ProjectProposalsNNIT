@@ -6,3 +6,5 @@
 
 
 ## [Exercises](exercises)
+
+## [Slides](ML.pdf)
